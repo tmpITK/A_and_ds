@@ -1,0 +1,1 @@
+Overly simplified algorithms and data structures for practice and revision
