@@ -1,3 +1,4 @@
+///thanks for the video lecture for Rob Edward from SDSU
 #pragma once
 #include <iostream>
 class QuickSort
